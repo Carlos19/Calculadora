@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="string1">C°</string>
+    <string name="string2">F°</string>
+    <string name="string0">Conversor de Grado</string>
+    <string name="string3">0°C = 32 °F</string>
+    <string name="string4">0°F= -17.7 °C</string>
+
+</resources>
